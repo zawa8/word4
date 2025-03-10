@@ -1,4 +1,4 @@
-import Image from "next/image";
+// import Image from "next/image";
 import Tiptap from "@/components/Tiptap";
 import FontPicker from "@/components/lifonts/lifp";
 export default function Home() {
